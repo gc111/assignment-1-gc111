@@ -1,0 +1,88 @@
+.logo{
+    color: red;
+    background-color: rgb(250, 250, 250);
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 700px;
+}
+
+.search {
+    position: absolute;
+    top: 100px;
+
+}
+
+.intro{
+
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #f4f807;
+    margin-left: 260px;
+
+}
+
+.location{
+    height: 45px;
+    width: 320px;
+    margin-left: 260px;
+}
+
+.restaurant{
+    height: 40px;
+    width: 620px;
+    margin-left: 10px;
+}   
+
+.discrp{
+    color: rgb(4, 4, 105);
+    font-family: sans-serif;
+}
+.discrp1{
+    color: rgb(172, 169, 168);
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: -10px;
+}
+
+.item{
+    display: inline-block;
+    width: 350px;
+    height: 200px;
+    border: 1px solid rgb(248, 245, 245);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    margin: 15px;
+    text-align: left;
+}
+
+.qs-row{
+    text-align: center;
+}
+.qs-left{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+
+.qs-right{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    padding: 58px 0px 0px 13px;
+}
+.head{
+    font-family: poppins;
+    color: #192f60;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.sub-haed{
+    font-family: poppins;
+    color: #8c96ab;
+    
+}

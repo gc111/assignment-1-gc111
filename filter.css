@@ -1,0 +1,276 @@
+.box1{
+    height: 70px;
+    width: 100%;
+    border: solid 1px red;
+    background-color: red;
+    position: absolute;
+}
+.logo{
+    color: red;
+    position: absolute;
+    top: 17px;
+    background-color: rgb(250, 250, 250);
+    height: 52px;
+    width: 52px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 170px;
+}
+
+.nav{
+    position: absolute;
+  margin: 25px 0px 11px 1180px;
+  font-family: Poppins;
+  font-size: 18px;
+  float: right;
+  font-weight: 500;
+  line-height: 1;
+  text-align: right;
+  color: #ffffff;
+}
+
+.account{
+   
+    border: 1px solid rgb(253, 252, 252);
+    margin: 23px;
+    padding: 12px;
+    border-radius: 4px;
+}
+.heading1{
+  position: absolute;
+  margin: 90px 0px 30px 200px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+  color: #192f60;
+}
+.filter-left{
+    width: 30%;
+    height: 800px;
+    border: solid 1px rgb(250, 249, 249);
+    display: inline-block;
+    margin: 130px 0px 0px 100px;  
+}
+.box-left{
+    width: 260px;
+    height: 700px;
+    border: solid 1px white;
+    margin-left: 100px;
+    padding-top: 15px;
+    box-shadow: 0 3px 6px 0 rgb(146, 56, 56);
+}
+h1{
+    font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1;
+  padding-top: 5px;
+  text-align: left;
+  margin-left: 25px;
+  color: #192f60;
+}
+
+h2{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1;
+    padding-top: 3px;
+    text-align: left;
+    margin: 25px 0px -5px 25px;
+    color: #192f60; 
+}
+
+.location{
+    width: 208px;
+    height: 35px;
+    text-align: left;
+    margin: 14px 0 25px 25px;
+    padding: 8px 16.7px 7px 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+}
+
+.cusine{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    padding-top: 16px;
+    margin: 0px 0px 15px 25px;
+    color: #192f60;
+}
+input{
+    height: 14px;
+    width: 14px;
+    padding-top: 20px;
+    margin: 15px 0px 0px 25px;
+  
+}
+label{
+    text-align: left;
+    margin: 15px 0px 12px 11px;
+    font-family: Poppins;
+    font-size: 14px;
+   font-weight: normal;
+   text-align: left;
+   color: #8c96ab;
+
+}
+
+.cost-for-two{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    padding-top: 16px;
+    margin: 8px 0px 0px 25px;
+    color: #192f60;
+}
+
+.sort{
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    padding-top: 16px;
+    margin: 16px 0px 0px 25px;
+    color: #192f60;
+}
+.filter-right{
+    width: 50%;
+    height:800px; 
+    border: solid 1px white;
+    display: inline-block;
+    vertical-align: top;
+    margin: 130px 0px 0px -35px; 
+   
+}
+
+.search-up{
+    width: 100%;
+    height: 300px;
+    border: solid 1px white;
+    box-shadow: 0 3px 6px 0 rgb(146, 56, 56);
+}
+
+.search-down{
+    width: 100%;
+    height: 300px;
+    border: solid 1px white;
+    margin-top: 20px;
+    box-shadow: 0 3px 6px 0 rgb(146, 56, 56);
+}
+
+.image1{
+    display: inline-block;
+    margin: 40px 40px 20px 40px;
+    
+}
+img{
+    border-radius: 40px;
+}
+.heading2{
+    width: 400px;
+    border: 1px solid white;
+    display: inline-block;
+    text-align: left;
+    margin-top: 75px;
+    vertical-align: top;
+}
+.sub-heading{
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.53;
+  text-align: left;
+  color: #192f60;
+  padding-bottom: 3px;
+  
+}
+.fort{
+    font-family: Poppins;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1;
+  text-align: left;
+  color: #192f60;
+}
+.adres{
+    font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1;
+  text-align: left;
+  color: #636f88;
+  padding-top: 9px;
+}
+
+.Line{
+    width: 660px;
+    height: 0px;
+    margin-left: 43px;
+    border: solid 0.5px #e7e4e4;
+}
+.CUISINES-COST-FOR-TWO{
+    display: block;
+    height: 80px;
+    width: 170px;
+    margin: 40px 0px 0px 40px;
+    font-size: 15px;
+  font-weight: normal;
+  line-height: 1;
+  text-align: left;
+  color: #636f88;
+}
+
+.Bakery-700{
+    display: block;
+    margin: -82px 0px 0px 230px;
+    font-family: Poppins;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1;
+  text-align: left;
+  color: #192f60;
+}
+h4{
+    margin: 0;
+    padding: 2px;
+}
+.square1{
+    height: 26px;
+    width: 26px;
+    text-align: center; 
+    font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500; 
+    border-radius: 7px;
+   background-color: darkgrey;
+    margin: 45px -215px 0 220px;
+  padding: 1px;
+  display: inline-block; 
+}
+.square{
+    height: 26px;
+    width: 26px;
+    text-align: center; 
+    font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500; 
+    border-radius: 7px;
+    border: solid 1px darkslategray;
+    margin: 45px -215px 0 220px;
+  padding: 1px;
+  display: inline-block;
+
+}
